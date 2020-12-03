@@ -1,0 +1,35 @@
+// Single line comment
+
+/* 
+Multiline comment
+*/
+
+
+
+Data Types:
+1. Boolean 
+2. Numeric 
+3. String
+4. Derived
+    Pointer 
+    Array 
+    Structure 
+    Union 
+    Function 
+    Slice 
+    Interface 
+    Map 
+    Channel
+
+
+Variable:
+var  i, j, k int;
+var  c, ch byte;
+var  f, salary float32;
+d =  42;
+d = 3, f = 5;
+var a, b, c = 3, 4, "foo"  
+
+Constants (literals)
+Constants are treated just like regular variables except that their values cannot be modified after their definition.
+const LENGTH int = 10
